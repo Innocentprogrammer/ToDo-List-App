@@ -40,5 +40,4 @@ The application automatically sends reminders at the specified interval, display
 This project is open-source and free to use.
 
 ## Author
-Developed by [Mratyunjay Saxena]
-
+Developed by <b>Mratyunjay Saxena</b>
