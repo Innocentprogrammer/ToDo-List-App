@@ -34,10 +34,11 @@ The tasks are stored in `tasks.txt` to ensure persistence between sessions.
 The application automatically sends reminders at the specified interval, displaying all pending tasks.
 
 ## Screenshots
-(You can add screenshots here for better visualization.)
+![To-Do List App Screenshot](image.png)
 
 ## License
 This project is open-source and free to use.
 
 ## Author
-Developed by <b>Mratyunjay Saxena</b>
+Developed by **Mratyunjay Saxena**
+
